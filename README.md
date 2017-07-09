@@ -40,3 +40,12 @@ Add to devDependencies, peerDependencies, and optionalDependencies respectively:
 Add Angular Validation
 
 `yarn add angular-messages`
+
+
+Create Yarn file
+
+no`.yarnrc`
+
+Change Directory of node_modules into app directory
+
+`yarn install --modules-folder ./app/node_modules`

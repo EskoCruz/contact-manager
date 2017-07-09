@@ -35,3 +35,8 @@ Add to devDependencies, peerDependencies, and optionalDependencies respectively:
     
     
     
+### Validation 
+
+Add Angular Validation
+
+`yarn add angular-messages`

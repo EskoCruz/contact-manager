@@ -14,6 +14,10 @@ angular-material@^1.1.4:
   version "1.1.4"
   resolved "https://registry.yarnpkg.com/angular-material/-/angular-material-1.1.4.tgz#27de35646f54ccd320080af0c708e1b438af87f6"
 
+angular-messages@^1.6.5:
+  version "1.6.5"
+  resolved "https://registry.yarnpkg.com/angular-messages/-/angular-messages-1.6.5.tgz#cc8127c48dfc47e69fedd0b0eadd5a97d18983a8"
+
 angular@^1.6.5:
   version "1.6.5"
   resolved "https://registry.yarnpkg.com/angular/-/angular-1.6.5.tgz#37f788eebec5ce2e3fa02b17bbcb2a231576a0d6"

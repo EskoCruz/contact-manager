@@ -16,8 +16,22 @@ Test that Yarn is installed by running:
 
 ### Install Angular Material
 
-`yarn add angular-material`
+`yarn add angular angular-material angular-animate angular-aria`
 
 https://yarnpkg.com/en/package/angular-material
 
 
+Add others
+
+`yarn add angular`
+
+### Packages
+
+Add to devDependencies, peerDependencies, and optionalDependencies respectively:
+
+    yarn add [package] --dev
+    yarn add [package] --peer 
+    yarn add [package] --optional
+    
+    
+    

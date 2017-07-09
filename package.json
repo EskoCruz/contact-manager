@@ -1,5 +1,15 @@
 {
+  "name": "contact-manager",
+  "version": "1.0.0",
+  "description": "Angular Material with Yarn",
+  "main": "index.js",
+  "repository": "https://github.com/EskoCruz/contact-manager.git",
+  "author": "Esko Cruzeta <eskocruz@users.noreply.github.com>",
+  "license": "MIT",
   "dependencies": {
+    "angular": "^1.6.5",
+    "angular-animate": "^1.6.5",
+    "angular-aria": "^1.6.5",
     "angular-material": "^1.1.4"
   }
 }
